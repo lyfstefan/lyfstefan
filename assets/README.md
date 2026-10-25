@@ -1,9 +1,11 @@
-# Profile animation
+# Profile typography
 
-`research-line.svg` was generated with the open-source [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) service on 2026-10-25.
+The SVGs use fonts embedded and subsetted by the open-source [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) service on 2026-10-25.
 
-Generator URL:
+- `name.svg`: VT323, static name heading.
+- `research-heading.svg`, `code-heading.svg`, `contributions-heading.svg`: JetBrains Mono, static section headings.
+- `research-line.svg`: JetBrains Mono, animated research subtitle.
 
-<https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=20&duration=3500&pause=1800&color=587EA0&width=650&height=40&lines=Correlations%2C+moire+and+quantum+matter&repeat=true>
+Each SVG contains its required font data; no browser font installation or live font service is required. Static headings adapt to light and dark color schemes. README body text remains ordinary GitHub-rendered Markdown.
 
-The SVG is stored in this repository so the profile image does not require the generator service on each view. This is the only animation in the profile README.
+Both fonts are distributed under the SIL Open Font License; see `vt323-OFL.txt` and `jetbrainsmono-OFL.txt`. Official font sources: [VT323](https://github.com/google/fonts/tree/main/ofl/vt323), [JetBrains Mono](https://github.com/google/fonts/tree/main/ofl/jetbrainsmono).

@@ -1,4 +1,4 @@
-# Yifan Liu · 刘异凡
+# <img src="assets/name.svg" alt="Yifan Liu" width="210" height="56">
 
 <img src="assets/research-line.svg" alt="Correlations, moiré and quantum matter" width="650" height="40">
 
@@ -6,7 +6,7 @@ I study theoretical condensed matter physics, with a focus on interactions and e
 
 [Website](https://lyfstefan.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=mXwRRVQAAAAJ) · [ORCID](https://orcid.org/0000-0003-1453-9851)
 
-## Research
+## <img src="assets/research-heading.svg" alt="Research" width="122" height="34">
 
 - **Moiré materials & electron–phonon coupling** — lattice effects, optical response, and correlated phases in low-dimensional materials.
 - **Strong correlations** — bond ordering, flux phases, and loop current fluctuations.
@@ -14,7 +14,7 @@ I study theoretical condensed matter physics, with a focus on interactions and e
 
 More about my [research](https://lyfstefan.github.io/research/) and [publications](https://lyfstefan.github.io/publications/).
 
-## Code & calculations
+## <img src="assets/code-heading.svg" alt="Code & calculations" width="285" height="34">
 
 | Project | What you'll find |
 | :--- | :--- |
@@ -22,7 +22,7 @@ More about my [research](https://lyfstefan.github.io/research/) and [publication
 
 **Tools:** Python · NumPy · SciPy · Matplotlib
 
-## Contributions
+## <img src="assets/contributions-heading.svg" alt="Contributions" width="195" height="34">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyfstefan/lyfstefan/output/github-snake-dark.svg">
