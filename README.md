@@ -31,7 +31,3 @@ More about my [research](https://lyfstefan.github.io/research/) and [publication
 </picture>
 
 <!-- Generated with Platane/snk; see .github/workflows/snake.yml. -->
-
----
-
-Outside of physics: hiking, cooking, and classical music.
