@@ -20,8 +20,6 @@ More about my [research](https://lyfstefan.github.io/research/) and [publication
 | :--- | :--- |
 | [1988_Affleck](https://github.com/lyfstefan/1988_Affleck) | Python code for the mean-field phase diagram of an interacting square-lattice flux model: numerical minimization, band structure, and phase classification. |
 
-**Tools:** Python · NumPy · SciPy · Matplotlib
-
 ## <img src="assets/contributions-heading.svg#gh-light-mode-only" alt="Contributions" width="195" height="34"><img src="assets/contributions-heading-dark.svg#gh-dark-mode-only" alt="Contributions" width="195" height="34">
 
 <picture>
