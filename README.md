@@ -1,6 +1,6 @@
 # <img src="assets/name.svg#gh-light-mode-only" alt="Yifan Liu" width="210" height="56"><img src="assets/name-dark.svg#gh-dark-mode-only" alt="Yifan Liu" width="210" height="56">
 
-<img src="assets/research-line.svg#gh-light-mode-only" alt="Correlations, spectra and quantum dynamics" width="650" height="40"><img src="assets/research-line-dark.svg#gh-dark-mode-only" alt="Correlations, spectra and quantum dynamics" width="650" height="40">
+<img src="assets/research-line.svg#gh-light-mode-only" alt="Correlations, moiré and quantum matter" width="650" height="40"><img src="assets/research-line-dark.svg#gh-dark-mode-only" alt="Correlations, moiré and quantum matter" width="650" height="40">
 
 I am a condensed matter theorist working on correlated lattice systems, exciton–phonon coupling, and non-Hermitian quantum dynamics. I received my Ph.D. in Physics from UC Riverside, advised by Prof. Vivek Aji.
 
